@@ -1,3 +1,7 @@
+# Lesser General Public License (LGPL) v3.0 .
+# The project has been developed by Saman Ebrahimnezhad .
+# Created at Iran (IR) .
+# Python 3 .
 
 import random
 import string
