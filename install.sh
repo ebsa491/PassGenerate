@@ -7,6 +7,6 @@ echo "Installing PassGenerate..."
 
 sudo mkdir /etc/PassGenerate
 sudo cp icon.txt /etc/PassGenerate/
-sudo cp /bin/PassGenerate /bin/
+sudo cp dist/PassGenerate /bin/
 
 echo "Installed successfully. Just run PassGenerate"
