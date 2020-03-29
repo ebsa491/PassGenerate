@@ -13,7 +13,7 @@ class PassGenerate:
 
         # figlet used for ASCII
 
-        icon = open('icon.txt', 'r')
+        icon = open('/etc/PassGenerate/icon.txt', 'r')
 
         icon_contents = icon.read()
 
