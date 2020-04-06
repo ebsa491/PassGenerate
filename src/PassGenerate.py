@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Lesser General Public License (LGPL) v3.0 .
 # The project has been developed by Saman Ebrahimnezhad .
 # Created at Iran (IR) .
